@@ -1,0 +1,14 @@
+.list {
+  list-style: none;
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 7px;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: rgb(89, 0, 255);
+  text-shadow: .7px .7px .7px rgb(94, 255, 0);
+  font-weight: bold;
+  margin-top: 6px;
+  cursor: pointer;
+  box-shadow: 1px 1px 1.3px 1.2px rgb(71, 82, 10);
+}
